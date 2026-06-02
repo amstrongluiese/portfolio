@@ -15,7 +15,7 @@ export function Footer() {
           <p className="font-sans text-sm text-muted-foreground">
             Crafted with love — Reinard Canero © {new Date().getFullYear()}
           </p>
-           <p className="font-serif font-bold text-xl mb-1">By Poet ni Luiese</p>
+          <p className="font-sans text-sm text-muted-foreground">Poet ni Luiese</p>
         </div>
 
         <div className="flex items-center gap-6 text-muted-foreground">
