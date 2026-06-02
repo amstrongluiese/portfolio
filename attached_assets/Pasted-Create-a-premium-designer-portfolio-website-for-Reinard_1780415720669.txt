@@ -1,0 +1,429 @@
+Create a premium designer portfolio website for **Reinard Canero**, a creative designer specializing in digital design, branding, visual storytelling, UI/UX, graphic design, and creative direction.
+
+## Core Design Concept
+
+The entire website should feel like a handcrafted scrapbook, journal, mood board, and creative sketchbook combined.
+
+Theme inspiration:
+
+* Cut-out paper art
+* Handmade scrapbook aesthetics
+* Botanical and nature-inspired elements
+* Soft green color palette
+* Layered paper textures
+* Sticky notes
+* Torn paper edges
+* Masking tape decorations
+* Polaroid frames
+* Pressed leaves
+* Sketch doodles
+* Notebook elements
+* Organic design layouts
+
+The overall feeling should be:
+
+* Cozy
+* Cute
+* Modern
+* Artistic
+* Playful
+* Premium
+* Creative
+* Interactive
+* Memorable
+
+Not childish.
+
+Not cartoonish.
+
+Professional while maintaining warmth and personality.
+
+---
+
+## Visual Style
+
+Design language:
+
+Apple-level polish combined with Pinterest aesthetics and Behance-level portfolio presentation.
+
+Color palette:
+
+Primary:
+
+* Sage Green
+* Forest Green
+* Moss Green
+* Olive Green
+
+Secondary:
+
+* Warm Cream
+* Soft Beige
+* Ivory White
+
+Accent:
+
+* Terracotta
+* Muted Orange
+* Warm Brown
+
+Background:
+
+Multiple layered paper textures.
+
+Subtle paper grain.
+
+Handcrafted look.
+
+Natural shadows between layers.
+
+---
+
+## Hero Section
+
+Create an unforgettable landing experience.
+
+When visitors enter:
+
+The website slowly assembles itself.
+
+Paper pieces slide into place.
+
+Leaves gently fall.
+
+Sticky notes appear.
+
+Photos pin themselves onto the board.
+
+Handwritten doodles animate into existence.
+
+Hero Layout:
+
+Large paper card in center.
+
+Handwritten-style heading:
+
+"Hello, I'm Reinard Canero"
+
+Subheading:
+
+Creative Designer crafting meaningful visual experiences.
+
+Buttons:
+
+* View My Works
+* Let's Collaborate
+
+Background:
+
+Floating paper cutouts.
+
+Moving botanical illustrations.
+
+Animated leaves.
+
+Subtle parallax effects.
+
+Organic floating shapes.
+
+Cursor interaction:
+
+Elements react slightly to mouse movement.
+
+---
+
+## Scrolling Experience
+
+Every section must feel alive.
+
+No static scrolling.
+
+Each section introduces a new animation experience.
+
+### Scroll Animations
+
+Use:
+
+* Parallax movement
+* Layered depth
+* Paper unfolding effects
+* Slide-in cards
+* Fade-up animations
+* Scale transitions
+* Rotation effects
+* Floating motions
+
+Each scroll should reveal content as if turning pages of a scrapbook.
+
+---
+
+## About Me Section
+
+Design as a scrapbook page.
+
+Include:
+
+* Personal portrait inside a Polaroid frame
+* Handwritten notes
+* Doodles
+* Pinned papers
+* Decorative tape
+
+Animation:
+
+The photo drops into place.
+
+Notes appear one by one.
+
+Doodles draw themselves.
+
+---
+
+## Skills Section
+
+Transform skills into collectible paper cards.
+
+Each card contains:
+
+* Skill icon
+* Skill name
+* Proficiency
+
+Cards should look handmade.
+
+Hover effect:
+
+Lift from the page.
+
+Cast realistic shadows.
+
+Slight tilt animation.
+
+Examples:
+
+* Branding
+* UI Design
+* UX Design
+* Graphic Design
+* Motion Graphics
+* Figma
+* Photoshop
+* Illustrator
+
+---
+
+## Portfolio Showcase
+
+This is the main attraction.
+
+Create a Pinterest-inspired creative gallery.
+
+Layout:
+
+Asymmetrical grid.
+
+Mixed sizes.
+
+Masonry layout.
+
+Each project card looks like:
+
+* Pinned artwork
+* Printed photo
+* Magazine clipping
+* Scrapbook entry
+
+Hover effects:
+
+Project image expands slightly.
+
+Paper layers separate.
+
+Project title animates.
+
+Project tags appear.
+
+When clicked:
+
+Open a premium fullscreen case study.
+
+Case Study Design:
+
+* Hero image
+* Project overview
+* Design process
+* Wireframes
+* Moodboards
+* Final outputs
+* Before and after comparisons
+
+Transition should feel like opening a scrapbook page.
+
+---
+
+## Interactive Creative Garden
+
+Unique signature section.
+
+Create a digital garden.
+
+Every leaf represents:
+
+* A project
+* A skill
+* An achievement
+
+When users hover:
+
+Leaves react.
+
+Flowers bloom.
+
+Branches animate.
+
+Small particles float around.
+
+This section should feel magical.
+
+---
+
+## Testimonials Section
+
+Create hanging paper notes.
+
+Testimonials appear pinned on a corkboard.
+
+Animations:
+
+Notes gently sway.
+
+Polaroids move slightly.
+
+Natural floating motion.
+
+---
+
+## Experience Timeline
+
+Design as a growing vine.
+
+Timeline flows vertically.
+
+Leaves represent milestones.
+
+Flowers represent achievements.
+
+Animation:
+
+Vine grows as users scroll.
+
+---
+
+## Contact Section
+
+Create a beautiful desk workspace scene.
+
+Include:
+
+* Notebook
+* Plants
+* Sticky notes
+* Pencil
+* Paper sheets
+
+Contact form appears inside an open notebook.
+
+Submission animation:
+
+Paper airplane flies away.
+
+Success message appears on a sticky note.
+
+---
+
+## Advanced Animations
+
+Use:
+
+* GSAP
+* Framer Motion
+* Lenis Smooth Scroll
+* ScrollTrigger
+* CSS Parallax
+
+Effects:
+
+* Smooth scrolling
+* Scroll-linked storytelling
+* Layered depth
+* Floating objects
+* Cursor interactions
+* Magnetic buttons
+* Page transitions
+
+---
+
+## Micro Interactions
+
+Buttons:
+
+* Bounce slightly
+* Paper press effect
+
+Cards:
+
+* Lift on hover
+
+Images:
+
+* Zoom subtly
+
+Links:
+
+* Hand-drawn underline animation
+
+Icons:
+
+* Sketch-to-final animation
+
+---
+
+## Loading Screen
+
+Create an artistic loading experience.
+
+A blank notebook appears.
+
+Sketches are drawn.
+
+Leaves appear.
+
+Paper pieces assemble.
+
+Then transition into the homepage.
+
+---
+
+## Mobile Design
+
+Do not simply stack content.
+
+Reimagine sections for mobile.
+
+Maintain scrapbook feeling.
+
+Keep animations optimized.
+
+Ensure smooth performance.
+
+---
+
+## Final Goal
+
+The portfolio must feel like:
+
+"A designer's personal creative journal brought to life."
+
+Visitors should feel like they are exploring a handcrafted storybook, not a typical portfolio website.
+
+The website should be highly memorable, emotionally engaging, premium, modern, interactive, aesthetic, and capable of standing out among thousands of designer portfolios.
